@@ -4,4 +4,4 @@ This is my BattleTank Project as a part of said course.
 
 ---
 ## Commits
- * BT Setting Up GitHub
+ * BT Setting Up GitHub And SourceTree
